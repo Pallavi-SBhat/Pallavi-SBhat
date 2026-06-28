@@ -1,102 +1,167 @@
-# Hi there, I'm Pallavi S Bhat 👋
+<div align="center">
 
-> *Curious learner building projects to turn ideas into real applications.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pallavi%20S%20Bhat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=turning%20ideas%20into%20real%20applications&descAlignY=55&descSize=16&descColor=c084fc" width="100%" />
 
----
+</div>
 
-## 🙋‍♀️ About Me
+<div align="center">
 
-- 🎓 Student at **Mangalore Institute of Technology and Engineering**
-- 📍 Based in **Mangalore, India**
-- 💡 I love turning ideas into working applications
-- 🌱 Currently sharpening my skills in **full-stack development** and **machine learning**
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/pallavisbhat)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Building+one+project+at+a+time+%E2%9C%A8;Student+%40+MITE+Mangalore+%F0%9F%8E%93)](https://git.io/typing-svg)
 
----
+<br/>
 
-## 🚀 Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavisbhat)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pallavi-SBhat)
 
-### 🩺 [MediClue – Disease Symptom Checker](https://github.com/Pallavi-SBhat/MediClue-Disease-Symptom-Checker)
-An intelligent disease symptom checker web app where users input symptoms to get possible disease predictions along with suggested precautions.
-> **Tech:** Python · Machine Learning
+</div>
 
----
+<br/>
 
-### ☁️ [Weather Forecast App](https://github.com/Pallavi-SBhat/WeatherForecast)
-A responsive weather app that allows users to search for any city and view real-time weather details along with a 5-day forecast, powered by the OpenWeatherMap API.
-> **Tech:** React · JavaScript · OpenWeatherMap API
+## ✦ &nbsp;About Me
 
----
+```
+╔══════════════════════════════════════════════════════════╗
+║  🎓  Student @ Mangalore Institute of Technology & Eng. ║
+║  📍  Mangalore, India                                    ║
+║  🌱  Sharpening skills in full-stack dev & ML           ║
+║  💡  I love turning raw ideas into working applications  ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-### ✅ [2DO – Full-Stack Todo App](https://github.com/Pallavi-SBhat/2DO)
-A full-stack Todo List application with a React (Vite) frontend and Express.js backend, connected to Supabase for persistent database management.
-> **Tech:** React · Vite · Express.js · Supabase
+<br/>
 
----
+## ✦ &nbsp;Projects
 
-### 💸 [Expense Tracker](https://github.com/Pallavi-SBhat/ExpenseTracker)
-A full-stack web app to record, manage, and track daily expenses with categorization, spending pattern monitoring, and expense history visualization.
-> **Tech:** JavaScript · React · Express.js
+> *Each project is a problem solved, a skill earned.*
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 👁️ [Face Recognition Access Control](https://github.com/Pallavi-SBhat/FaceRecognition)
-A face detection and recognition-based access control system built using OpenCV and the LBPH algorithm.
-> **Tech:** Python · OpenCV · LBPH
+### 🩺 MediClue
+**Disease Symptom Checker**
 
----
+An intelligent web app where users input symptoms and receive possible disease predictions along with precautions.
 
-### 🧠 [LeetCode Solutions](https://github.com/Pallavi-SBhat/LeetCode)
-My personal collection of LeetCode problem solutions — continuously updated as I practice and grow.
-> **Tech:** JavaScript
+`Python` `Machine Learning` `scikit-learn`
 
----
+[![Repo](https://img.shields.io/badge/View_Repo-%23C084FC?style=flat-square&logo=github&logoColor=white)](https://github.com/Pallavi-SBhat/MediClue-Disease-Symptom-Checker)
 
-## 🛠️ Tech Stack
+</td>
+<td width="50%" valign="top">
 
-**Languages**
+### ☁️ Weather Forecast App
+**Real-time Weather Dashboard**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+Search any city and get real-time conditions plus a 5-day forecast — powered by OpenWeatherMap API.
 
-**Frontend**
+`React` `JavaScript` `OpenWeatherMap API`
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+[![Repo](https://img.shields.io/badge/View_Repo-%2360A5FA?style=flat-square&logo=github&logoColor=white)](https://github.com/Pallavi-SBhat/WeatherForecast)
 
-**Backend & Database**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+### ✅ 2DO
+**Full-Stack Todo App**
 
-**ML / CV**
+React + Express frontend/backend with Supabase for persistent storage — a complete end-to-end application.
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+`React` `Vite` `Express.js` `Supabase`
 
----
+[![Repo](https://img.shields.io/badge/View_Repo-%23FF6B9D?style=flat-square&logo=github&logoColor=white)](https://github.com/Pallavi-SBhat/2DO)
 
-## 📊 GitHub Stats
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pallavi-SBhat&theme=tokyonight&hide_border=true" alt="Pallavi's GitHub Streak" />
-</p>
+### 💸 Expense Tracker
+**Spending Patterns Visualizer**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi-SBhat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+Record and manage daily expenses with categorization and visual spending history — full-stack, soup to nuts.
 
----
+`React` `Express.js` `JavaScript`
 
-## 📫 Let's Connect
+[![Repo](https://img.shields.io/badge/View_Repo-%23C084FC?style=flat-square&logo=github&logoColor=white)](https://github.com/Pallavi-SBhat/ExpenseTracker)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavisbhat)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pallavi-SBhat)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 👁️ Face Recognition Access Control
+**Computer Vision Security System**
 
-<p align="center">
-  <i>"Every project is a step closer to mastery."</i>
-</p>
+Face detection and recognition-based access control using OpenCV's LBPH algorithm.
+
+`Python` `OpenCV` `LBPH`
+
+[![Repo](https://img.shields.io/badge/View_Repo-%2360A5FA?style=flat-square&logo=github&logoColor=white)](https://github.com/Pallavi-SBhat/FaceRecognition)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 LeetCode Solutions
+**Algorithmic Practice Journal**
+
+A growing, continuously updated collection of LeetCode solutions as I sharpen my problem-solving skills.
+
+`JavaScript` `DSA` `Algorithms`
+
+[![Repo](https://img.shields.io/badge/View_Repo-%23FF6B9D?style=flat-square&logo=github&logoColor=white)](https://github.com/Pallavi-SBhat/LeetCode)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ✦ &nbsp;Tech Stack
+
+<div align="center">
+
+**· Languages ·**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**· Frontend ·**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**· Backend & Database ·**
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**· ML / Computer Vision ·**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</div>
+
+<br/>
+
+## ✦ &nbsp;GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pallavi-SBhat&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=FF6B9D&currStreakLabel=60A5FA" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi-SBhat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=94A3B8" alt="Top Languages" width="49%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
+
+*"Every project is a step closer to mastery."*
+
+</div>
