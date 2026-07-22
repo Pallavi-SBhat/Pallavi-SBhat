@@ -151,8 +151,8 @@ A growing, continuously updated collection of LeetCode solutions as I sharpen my
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pallavi-SBhat&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=FF6B9D&currStreakLabel=60A5FA" alt="GitHub Streak" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi-SBhat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=94A3B8" alt="Top Languages" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Pallavi-SBhat&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=FF6B9D&currStreakLabel=60A5FA" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi-SBhat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=94A3B8&cache_seconds=1800" width="49%" />
 
 </div>
 
